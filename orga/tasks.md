@@ -2,8 +2,9 @@
 
 ## Welcome
 
-- [ ] Hand-out Docker T-Shirts and Stickers -
-- [ ] Collect the 5 Eur Donation for Food and Beverages = -
+- [ ] Hand out Docker T-Shirts and Stickers -
+- [ ] Hand out badges for participant names -
+- [ ] Collect the 5 Eur Donation for Food and Beverages -
 
 ## Talk
 
@@ -28,6 +29,13 @@
 - [ ] eCommerceCamp Orga - 
 - [ ] Contacts at Ageto, Intershop, Xceptance, Tritum, IronShark, dotSource - 
 - [ ] ePages internal RND blog post und schwarzes Brett - 
+
+## Environment
+
+- [ ] Hall Signs - 
+- [ ] Wifi Sign -
+- [ ] Flipchart, Beamer - 
+- [ ] Room Preparation (Social & Open Space) - 
 
 ## Food
 
