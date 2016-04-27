@@ -2,9 +2,10 @@
 
 ## Welcome
 
-- [ ] Hand out Docker T-Shirts and Stickers -
-- [ ] Hand out badges for participant names -
-- [ ] Collect the 5 Eur Donation for Food and Beverages -
+- [ ] Hand out Docker T-Shirts and Stickers - Oliver
+- [ ] Hand out badges for participant names - Oliver
+- [ ] Collect the 5 Eur Donation for Food and Beverages - Oliver
+- [ ] Participant List (Taxes) - Oliver
 
 ## Talk
 
@@ -19,8 +20,8 @@
 
 ## Marketing
 
-- [ ] PDF Flyer
-- [ ] Event on Softwerkskammer, Meetup and Coderetreat 
+- [ ] PDF Flyer, Laptop mitbringen, Testumgebung, PhpUnit, Anleitung im Repo - Benjamin
+- [ ] Event on Softwerkskammer, Meetup and Coderetreat - Benjamin
 - [ ] Featured as offical [Coderetreat Event](http://coderetreat.org/events/coderetreat-in-jena-germany) - B
 - [ ] Webmontag Jena - 
 - [ ] Aushang at Uni, Hackspace, Informatik, Winfo, Mathematik Fachschaft - 
@@ -32,14 +33,12 @@
 
 ## Environment
 
-- [ ] Hall Signs - 
-- [ ] Wifi Sign -
-- [ ] Flipchart, Beamer - 
-- [ ] Room Preparation (Social & Open Space) - 
+- [ ] Hall Signs - Bastian
+- [ ] Wifi Sign - Oliver
+- [ ] Flipchart, Beamer - Benjamin, Bastian
+- [ ] Room Preparation (Social & Open Space) - Ab: 18:00
 
 ## Food
 
-- [ ] Participant List (Taxes) - 
-- [ ] Spendeneinsammlung (5 Eur pro TN) -
-- [ ] Netto - 
-- [ ] Lieferdienst - 
+- [ ] Netto - Andreas
+- [ ] Lieferdienst - Andreas
